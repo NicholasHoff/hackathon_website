@@ -5,9 +5,7 @@ The main idea is to gather 5-8 ML experts in Berlin, choose a research paper tha
 - answer a question we had while reading
 - apply the idea to a different domain
 
-We dedicate one full weekend to the hackathon. Before meeting, we will have decided which paper to work from and which ideas to try out.
-
-Our default ML framework is pyTorch.
+We dedicate one full weekend to the hackathon. Before meeting, we will have decided which paper to work from and which ideas to try out. Our default ML framework is pyTorch.
 
 ## Who should attend?
 This hackathon is not suitable for beginners. Our time is limited so we don't cover any of the basics, even on the specific topic we're working on. Generally, you should be able to implement significant parts of a research paper, have new ideas about how to take the work forward, and be able to do that mostly on your own if you had the time.
@@ -45,3 +43,6 @@ We are looking for sponsors to cover:
 - Some GPUs to train our models. This could be either cloud credits or physical machines.
 
 The legal home for the hackathon is [New Approach Technologies GmbH](newapproachtechnologies.com), an ML freelancing firm run by Nicholas Hoff.
+
+## Contact
+If you are interested in sponsoring the hackathon or joining as a participant, please write to `nhoff@NewApproachTechnolgoies.com`.
