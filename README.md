@@ -30,13 +30,13 @@ If you _are_ a beginner and are interested in getting into machine learning at a
     - ScikitLearn is a set of libraries for classificaiton, regression, and clustering. It also includes a widely-used set of pre-processing functionality. Tutorials are [here](https://scikit-learn.org/stable/tutorial/index.html).
     
 ## Where does the hackathon take place?
-We are currently considering options, including:
-- A company in Berlin who lends us their office space for the weekend.
-- A house that we rent for the purpose of the event.
-- A university which would host the hackathon
+We are currently exploring options, including:
+- A company in Berlin who would lend us their office space for the weekend.
+- A house that we would rent for the purpose of the event.
+- A co-working space in Berlin which is open on the weekend and would admit non-members.
 
 ## What happens to the resulting code?
-Probably nothing, although we'll make it publicly available under the MIT license. The purpose of the hackathon is to explore ideas that none of us have time to work on during our regular lives, not really to build a product. However, anyone who attends the hackathon is free to use any of the resulting code however they want.
+Probably nothing. The purpose of the hackathon is to explore ideas that none of us have time to work on during our regular lives, not really to build a product. However, anyone who attends the hackathon is free to use any of the resulting code however they want. We'll make it publicly available under the MIT license.
 
 ## Sponsors
 We are looking for sponsors to cover:
