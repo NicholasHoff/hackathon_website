@@ -1,4 +1,4 @@
-<img class="main-logo" src="https://upload.wikimedia.org/wikipedia/en/b/b1/Portrait_placeholder.png">
+<img class="main-logo" src="logo.png">
 
 ## What is this hackathon?
 The main idea is to gather 5-8 ML experts in Berlin, choose a research paper that we all thought was interesting, and then:
