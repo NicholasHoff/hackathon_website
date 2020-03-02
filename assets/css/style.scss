@@ -4,3 +4,10 @@
 @import "{{ site.theme }}";
 
 #forkme_banner { display: none; }
+
+.main-logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
