@@ -44,7 +44,9 @@ We are looking for sponsors to cover:
 - Renting monitors (because coding on a laptop screen all weekend is no fun).
 - Some GPUs to train our models. This could be either cloud credits or physical machines.
 
-The legal home for the hackathon is [New Approach Technologies GmbH](newapproachtechnologies.com), an ML freelancing firm run by Nicholas Hoff.
+We will include sponsor logos on our website and promotional materials.  The main benefit for sponsoring the hackathon is increased awareness and good will toward your organization among the Berlin ML community.
+
+The legal home for the hackathon is [New Approach Technologies GmbH](newapproachtechnologies.com), an ML freelancing firm run by Nicholas Hoff. This is the legal entity that can accept sponsorship contributions, spend money, and enter into contracts.
 
 ## Contact
 If you are interested in sponsoring the hackathon or joining as a participant, please write to `nhoff@NewApproachTechnolgoies.com`.
