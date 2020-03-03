@@ -49,4 +49,4 @@ We will include sponsor logos on our website and promotional materials.  The mai
 The legal home for the hackathon is [New Approach Technologies GmbH](newapproachtechnologies.com), an ML freelancing firm run by Nicholas Hoff. This is the legal entity that can accept sponsorship contributions, spend money, and enter into contracts.
 
 ## Organizers
-The hackathon is being organized by [Nicholas Hoff](nicholashoff.com) and Marcel Ackermann ([github](https://github.com/dreamflasher), [LinkedIn](https://www.linkedin.com/in/marcel-ackermann/)). If you are interested in sponsoring the hackathon or joining as a participant, please write to `nhoff@NewApproachTechnolgoies.com`.
+The hackathon is being organized by [Nicholas Hoff](http://nicholashoff.com) and Marcel Ackermann ([github](https://github.com/dreamflasher), [LinkedIn](https://www.linkedin.com/in/marcel-ackermann/)). If you are interested in sponsoring the hackathon or joining as a participant, please write to `nhoff@NewApproachTechnolgoies.com`.
